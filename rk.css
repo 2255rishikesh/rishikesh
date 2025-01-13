@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    border: 2px;
+    border-style: ridge;
+    background-color:  blue;
+    color: rgb(0, 255, 17);
+    /*   border-style dotted */
+}
+h2{
+ text-align: justify;
+}
+body{
+    background: #ffeea8;
+}
+table,th,tr,td{
+    border: 8px solid rgb(89, 73, 234);
+}
+.part{
+    background-color: aquamarine;
+    border: 5px solid rgb(255, 238, 48);
+    margin: 40px 20px;
+    padding: 50px;
+}
